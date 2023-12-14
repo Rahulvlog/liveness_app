@@ -1,5 +1,5 @@
 cmake
-opencv-python==4.7.0.72
+opencv-python==4.6.0.66
 streamlit-webrtc
 tensorflow
 imutils
