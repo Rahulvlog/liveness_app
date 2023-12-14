@@ -6,4 +6,4 @@ imutils
 pickle-mixin
 scikit-learn
 av
-opencv-python==4.5.3.56
+opencv-python==4.5.5.64
