@@ -1,9 +1,9 @@
 cmake
-
+opencv-python==4.7.0.72
 streamlit-webrtc
 tensorflow
 imutils
 pickle-mixin
 scikit-learn
 av
-# opencv-python==4.5.5.64
+
