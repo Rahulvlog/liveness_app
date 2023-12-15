@@ -6,5 +6,5 @@ imutils
 pickle-mixin
 scikit-learn
 av
-libGL1>=1.0.0
+libgl1-mesa-glx
 
